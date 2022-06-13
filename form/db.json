@@ -1,0 +1,28 @@
+{
+  "form": [
+    {
+      "name": "nittin",
+      "email": "nitin77n@gmail.com",
+      "password": "Ram@789123",
+      "confirmpassword": "Ram@789123",
+      "dateofbirth": "2022-06-01",
+      "id": 23
+    },
+    {
+      "name": "Nitin Maharashi",
+      "email": "nitin_pw2_053@masai.school",
+      "password": "Ram@789123",
+      "confirmpassword": "Ram@789123",
+      "dateofbirth": "2006-02-16",
+      "id": 24
+    },
+    {
+      "name": "sumit",
+      "email": "eve.holt@reqres.in",
+      "password": "Ram@789123",
+      "confirmpassword": "Ram@789123",
+      "dateofbirth": "2012-02-14",
+      "id": 25
+    }
+  ]
+}
